@@ -1,0 +1,14 @@
+de\hennob\jpa\App.class
+de\hennob\university\Course.class
+de\hennob\jpa\ReadApp.class
+de\hennob\jpa\PersistenceUtils.class
+de\hennob\mappedjpa\AbstractAnimal.class
+de\hennob\university\Professor.class
+de\hennob\main\Application.class
+de\hennob\university\Student.class
+de\hennob\mappedjpa\FlyingAnimal.class
+de\hennob\jpa\Person.class
+de\hennob\jpa\DeleteApp.class
+de\hennob\jpa\JPQLApp.class
+de\hennob\mappedjpa\SwimmingAnimal.class
+de\hennob\university\University.class
